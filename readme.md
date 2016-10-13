@@ -1,17 +1,13 @@
 ---
 title: Practicing Joins
 type: lab
-duration: "1:5"
+duration: "2:30"
 creator:
-    name: Lucy Williams
-    city: DC
+    name: Brad Zimmerman
+    city: SEA
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Practicing Joins
-
-## Introduction
-
-Inner, outer, left, and right joins can help us to combine data in ways that can make analysis a lot easier. Let's get some more practice.
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Practicing Joins w/ THE LEAGUE OF EVIL!
 
 ## Scenario
 
@@ -25,8 +21,3 @@ Use the following database in the assets folder:
 marvel.csv
 
 Follow the instructions to help evil with your data science skills!
-
-#### Starter Code
-
-Here is some [starter code to get you going](./code/starter-code/w2-4.4-starter.ipynb).
-
