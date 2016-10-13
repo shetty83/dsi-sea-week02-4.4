@@ -13,40 +13,18 @@ creator:
 
 Inner, outer, left, and right joins can help us to combine data in ways that can make analysis a lot easier. Let's get some more practice.
 
+## Scenario
+
+You have been contracted by the LEAGUE OF EVIL to fix their database of hero records.
+
+You have just received a new list containing columns of hero weaknesses, affinities, and killabilities. Unfortunately, this list isn't connected in any way to your main database. To make matters worse, your list contains ids for heros that have already been killed in epic battles. Can you fix the database, saving the day for villains everywhere?
+
 #### Requirements
 
-Use the following two DataFrames:
+Use the following database in the assets folder:
+marvel.csv
 
-```Python
-df_a = pd.DataFrame([{"a": 1, "b": 4}, {"a": 2, "b": 5}, {"a": 3, "b": 6}])
-df_a
-```
-
-```Python
-df_b = pd.DataFrame([{"c": 2, "d": 7}, {"c": 3, "d": 8}])
-df_b
-```
-
-and do:
-- an inner join
-- an outer join
-- a left join
-- a right join
-
-**Bonus:**
-Repeat the requirements above using DIFFERENT dataframes. Try your hand at joining the two dataframes described below:
-
-```Python
-left = pd.DataFrame({'key1': ['foo', 'foo', 'bar'],
-                  'key2': ['one', 'two', 'one'],
-                  'lval': [1, 2, 3]})
-```
-
-```Python
-right = pd.DataFrame({'key1': ['foo', 'foo', 'bar', 'bar'],
-                   'key2': ['one', 'one', 'one', 'two'],
-                   'rval': [4, 5, 6, 7]})
-```
+Follow the instructions to help evil with your data science skills!
 
 #### Starter Code
 
