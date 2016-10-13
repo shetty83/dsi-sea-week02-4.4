@@ -13,7 +13,7 @@ creator:
 
 You have been contracted by the LEAGUE OF EVIL to fix their database of hero records.
 
-You have just received a new list containing columns of hero weaknesses, affinities, and killabilities. Unfortunately, this list isn't connected in any way to your main database. To make matters worse, your list contains ids for heros that have already been killed in epic battles. Can you fix the database, saving the day for villains everywhere?
+You have received a new list containing columns of hero weaknesses, affinities, and killability. Unfortunately, this list isn't connected in any way to your main database. To make matters worse, your list contains ids for heros that have already been killed in epic battles! Can you fix the database, saving the day for villains everywhere?
 
 #### Requirements
 
