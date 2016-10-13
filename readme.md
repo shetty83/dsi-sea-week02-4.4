@@ -30,4 +30,3 @@ Follow the instructions to help evil with your data science skills!
 
 Here is some [starter code to get you going](./code/starter-code/w2-4.4-starter.ipynb).
 
-> [Solution Code](./code/solution-code/w2-4.4-solution.ipynb)
